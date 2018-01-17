@@ -30,9 +30,9 @@ Github Flvored Markdown, GFM
 - [x] item1
 - [ ] item2
 
-emoji 表情
-     
-    :unamused: :v:
+emoji 表情  
+:unamused:
+:v:
 
 
 <!-- 下面是本文中用到的引用 -->
