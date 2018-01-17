@@ -32,7 +32,7 @@ Github Flvored Markdown, GFM
 
 emoji 表情
      
-     :unamused:
+    :unamused: :v:
 
 
 <!-- 下面是本文中用到的引用 -->
